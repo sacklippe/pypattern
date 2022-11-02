@@ -7,6 +7,8 @@
 :relative-images:
 ```
 
+For further usage check {doc}`usage`. Read installation instructions in {ref}`Installation`.
+
 ```{warning}
 This library is under heavy development.
 ```
@@ -16,6 +18,7 @@ This library is under heavy development.
 :maxdepth: 2
 
 modules
+usage
 ```
 
 - {ref}`genindex`
