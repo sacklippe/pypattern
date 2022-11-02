@@ -1,21 +1,21 @@
-pypattern package
-=================
+# pypattern package
 
-Submodules
-----------
+## Submodules
 
-pypattern.state module
-----------------------
+## pypattern.state module
 
+```{eval-rst}
 .. automodule:: pypattern.state
    :members:
    :undoc-members:
    :show-inheritance:
+```
 
-Module contents
----------------
+## Module contents
 
+```{eval-rst}
 .. automodule:: pypattern
    :members:
    :undoc-members:
    :show-inheritance:
+```
