@@ -17,6 +17,7 @@ furo = "^2022.9.29"
 rst-to-myst = "^0.3.2"
 myst-parser = "^0.18.1"
 sphinx-autobuild = "^2021.3.14"
+python-docs-theme = "^2022.1"
 
 [build-system]
 requires = ["poetry-core"]
