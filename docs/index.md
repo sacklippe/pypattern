@@ -19,7 +19,14 @@ This library is under heavy development.
 
 modules
 usage
+changelog
 ```
+
+```{changelog}
+:changelog-url: https://github.com/sacklippe/pypattern/blob/main/CHANGELOG.md
+:github: https://github.com/sacklippe/pypattern
+```
+
 
 - {ref}`genindex`
 - {ref}`modindex`
